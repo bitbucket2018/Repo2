@@ -1,0 +1,13 @@
+ Volume in drive F has no label.
+ Volume Serial Number is 8A37-BCED
+
+ Directory of F:\Git\myfolder
+
+02/08/2018  10:27 PM    <DIR>          .
+02/08/2018  10:27 PM    <DIR>          ..
+01/08/2018  10:22 PM                22 index.html
+01/08/2018  10:17 PM               340 test1.txt
+01/08/2018  10:40 PM                 0 test2.txt
+02/08/2018  10:27 PM                 0 test4.txt
+               4 File(s)            362 bytes
+               2 Dir(s)  366,634,913,792 bytes free
